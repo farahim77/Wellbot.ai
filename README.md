@@ -90,7 +90,3 @@ frontend
 cd ../frontend
 npm start
 ```
-
----
-
-WellBot.AI is made with 💖 by Aanas and Zodrick at the HackPrix 2025.
